@@ -1,0 +1,19 @@
+# PyTorch and related packages (CUDA 13.0)
+# For other CUDA versions, see: https://pytorch.org/get-started/locally/
+torch==2.9.0
+torchvision==0.24.0
+torchaudio==2.9.0
+
+# Data science and machine learning
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Jupyter notebook support
+ipywidgets>=8.0.0
+
+# Dataset download
+kagglehub>=0.2.0
