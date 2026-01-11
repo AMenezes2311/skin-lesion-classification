@@ -166,3 +166,21 @@ This project is for educational purposes.
 - Dataset: [Melanoma Skin Cancer Dataset](https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images)
 - Pre-trained models: PyTorch/TorchVision
 - Framework: PyTorch
+
+📜 License & Usage Modification: Not permitted.
+
+Redistribution: Only allowed with proper attribution and without any changes to the original files.
+
+Commercial Use: Only with prior written consent.
+
+📌 Attribution All credits for the creation, design, and development of this project go to:
+
+Andre Menezes 📧 Contact: andremenezes231@hotmail.com 🌐 Website: https://andremenezes.dev
+
+If this project is used, cited, or referenced in any form (including partial code, design elements, or documentation), you must provide clear and visible attribution to the original author(s).
+
+⚠️ Disclaimer This project is provided without any warranty of any kind, either expressed or implied. Use at your own risk.
+
+📂 File Integrity Do not alter, rename, or remove any files, directories, or documentation included in this project. Checksum or signature verification may be used to ensure file authenticity.
+
+© 2025 Andre Menezes. All Rights Reserved.
